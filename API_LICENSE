@@ -1,0 +1,32 @@
+# Additional Terms for API Usage
+
+This software is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, and/or sell copies of the Software, subject to the following additional terms regarding the use of the API addresses included in the code:
+
+## Restrictions on Commercial Use of API Addresses
+
+1. **Non-Commercial Use Only**: The API addresses included in this code are provided strictly for non-commercial use. Any commercial use of these API addresses, directly or indirectly, is prohibited without prior written permission.
+
+2. **Commercial Use Definition**: Commercial use includes, but is not limited to, integrating the API addresses into products or services that are sold, offered for a fee, or used to generate revenue.
+
+3. **Contact for Commercial Use**: If you wish to use the API addresses for commercial purposes, please contact the author at [rdcyosuzume@gmail.com] to discuss obtaining a commercial license.
+
+By using this software, you agree to abide by these additional terms regarding the use of the included API addresses. Any violation of these terms may result in legal action.
+
+For the full MIT License text, please see the LICENSE file included with this repository.
+
+
+### For JP 
+
+# API使用に関する追加規約について
+本ソフトウェアはMITライセンスの下で許諾されています。あなたは、コードに含まれるAPIアドレスの使用に関する以下の追加条件に従い、本ソフトウェアのコピーを自由に使用、複製、変更、結合、公開、配布および、または販売することができます。
+
+APIアドレスの商用利用に関する制限
+非商用利用のみ： 本コードに含まれるAPIアドレスは、厳密に非商用利用のために提供されます。これらのAPIアドレスを直接的または間接的に商用利用することは、書面による事前の許可なく禁止されています。
+
+商用利用の定義： 商用利用には、販売、有償提供、または収益を得るために使用される製品やサービスにAPIアドレスを組み込むことが含まれますが、これらに限定されません。
+
+商用利用の連絡先：商用目的でAPIアドレスの利用を希望される場合は、商用ライセンスの取得について、作者の[rdcyosuzume@gmail.com]までご連絡ください。
+
+本ソフトウェアを使用することにより、お客様は、含まれるAPIアドレスの使用に関するこれらの追加条件に従うことに同意したものとみなされます。これらの規約に違反した場合、法的措置が取られることがあります。
+
+MITライセンスの全文については、このリポジトリに含まれるLICENSEファイルを参照してください。 
